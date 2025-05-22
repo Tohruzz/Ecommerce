@@ -1,0 +1,16 @@
+.products{
+    margin: auto;
+    width:95vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+    padding: 10px;
+    
+}
+.product{
+    flex-grow: 1;
+   
+}
+
